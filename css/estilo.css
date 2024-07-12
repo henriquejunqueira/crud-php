@@ -1,0 +1,19 @@
+.caixa-titulo {
+	display: flex;
+	gap: 2rem;
+}
+
+.caixa-titulo a {
+	height: 40px;
+	margin-top: 10px;
+}
+
+.lista_foto {
+	width: 70px;
+	height: 70px;
+	border-radius: 70px;
+}
+
+.mostra_foto {
+	width: 250px;
+}
